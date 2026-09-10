@@ -9,7 +9,8 @@
   <key>ProgramArguments</key>
   <array>
     <string>/usr/bin/open</string>
-    <string>/Users/tongxing/scripts/ChatGPTMorningChat.app</string>
+    <string>-a</string>
+    <string>ChatGPT</string>
   </array>
 
   <key>RunAtLoad</key>
